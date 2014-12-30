@@ -1,4 +1,5 @@
 practice
 ========
 
-Learning Github
+Learning Github,
+Janet Kamin, PhD, MBA
